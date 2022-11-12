@@ -1,0 +1,1 @@
+This homework is all about trees and forests. It uses decision tree classifiers and random forest classifiers to train a model in order to predict target variables. I worked alone for the assignment and asked for help from Dr Bianco in class when i got stuck.
