@@ -1,0 +1,1 @@
+In this assignment, we worked with sentiment analysis. we were asked to create different functions to find a sentiment value for differnt phrases in a data set. I learnt how to use list comprehension to solve major problems. I worked alone for the assignment and consultaed python guides.com when i got stuck woth my errorbar plot
